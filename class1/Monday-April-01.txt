@@ -1,0 +1,3 @@
+Today started the session with discussion on 
+What is SCM
+What are the checkpoints exists before moving the code to PROD
